@@ -74,7 +74,12 @@ If you find this useful for your research, please use the following.
 
 **BibTeX:**
 ```
-
+@article{salama2024dataset,
+        title={Dataset Size Recovery from LoRA Weights},
+        author={Salama, Mohammad and Kahana, Jonathan and Horwitz, Eliahu and Hoshen, Yedid},
+        journal={arXiv preprint arXiv:2406.19395},
+        year={2024}
+      }
 ```
 
 
